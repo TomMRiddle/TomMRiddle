@@ -1,9 +1,8 @@
+<p align="right"><a href="Victor_Ek_CV_sv.pdf">📄 Ladda ner CV (svenska, PDF)</a> &nbsp;|&nbsp; <a href="Victor_Ek_CV.pdf">📄 Download English CV (PDF)</a></p>
 
 # Victor Ek
 
 **Klarhetsskapare | Förbättringsfinnare**
-
-<p align="right"><a href="Victor_Ek_CV_sv.pdf">📄 Ladda ner CV (svenska, PDF)</a> &nbsp;|&nbsp; <a href="Victor_Ek_CV.pdf">📄 Download English CV (PDF)</a></p>
 
 ## Om mig
 
