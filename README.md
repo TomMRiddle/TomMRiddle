@@ -5,8 +5,6 @@
 
 <p align="right"><a href="Victor_Ek_CV_sv.pdf">📄 Ladda ner CV (svenska, PDF)</a> &nbsp;|&nbsp; <a href="Victor_Ek_CV.pdf">📄 Download English CV (PDF)</a></p>
 
----
-
 ## Om mig
 
 Jag är en kreativ och tekniskt grundad person med en kandidatexamen i medieteknik och yrkesutbildning inom visuell kommunikation och mjukvarutestning. Med över tio års erfarenhet av digital produktion, support och innehållsleverans inom offentlig sektor har jag utvecklat en stark förmåga att överbrygga klyftan mellan tekniska och kreativa team för att leverera effektiva lösningar. Jag brinner för kontinuerligt lärande och att förbättra användarupplevelsen.
@@ -18,7 +16,6 @@ Jag är en kreativ och tekniskt grundad person med en kandidatexamen i medietekn
 - **Arbetsflöde och samarbete:** Agila metoder, internkommunikation, dokumentation
 - **Webb och gränssnittsutveckling:** HTML, CSS, JavaScript, PHP, Python, ASP.NET WebAPI, Java
 - **Design och innehållsproduktion:** Adobe Creative Suite, UX/UI, tryck- och webblayout
-
 
 ## Erfarenhet
 
@@ -40,7 +37,6 @@ Jag är en kreativ och tekniskt grundad person med en kandidatexamen i medietekn
     <li>Stöd till kommunikationsavdelningar och upprätthållande av visuell identitet</li>
   </ul>
 </details>
-
 
 ## Utbildning
 
